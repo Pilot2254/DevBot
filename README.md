@@ -1,2 +1,1 @@
-# Simple-Discord-Bot
-idk
+# OxyBot
